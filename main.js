@@ -54,7 +54,7 @@ document.querySelectorAll('a[href^="#"]').forEach(a => {
 // ---- TYPED TEXT ----
 const roles = [
   'Data Analyst',
-  'Machine Learning Enthusiast',
+  'Network Administration',
   'Web Developer',
   'Computer Science Graduate',
   'Problem Solver'
