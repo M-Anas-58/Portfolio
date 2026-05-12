@@ -53,10 +53,10 @@ document.querySelectorAll('a[href^="#"]').forEach(a => {
 
 // ---- TYPED TEXT ----
 const roles = [
+  'IT Support Specialist',
   'Data Analyst',
-  'Network Administration',
+  'Network Administrator',
   'Web Developer',
-  'Computer Science Graduate',
   'Problem Solver'
 ];
 let rIdx = 0, cIdx = 0, deleting = false;
