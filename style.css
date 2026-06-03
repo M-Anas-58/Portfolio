@@ -627,6 +627,21 @@ section { padding: 100px 0; position: relative; z-index: 1; }
 }
 .cert-status { color: #22c55e; display: flex; align-items: center; }
 
+.view-cert-btn {
+  display: inline-block;
+  margin-top: 12px;
+  font-size: 0.9rem;
+  color: #00f0ff; /* Matches the neon blue style in your image */
+  text-decoration: none;
+  font-weight: 500;
+  transition: opacity 0.3s ease;
+}
+
+.view-cert-btn:hover {
+  opacity: 0.7;
+  text-decoration: underline;
+}
+
 /* =========================================
    EDUCATION
    ========================================= */
